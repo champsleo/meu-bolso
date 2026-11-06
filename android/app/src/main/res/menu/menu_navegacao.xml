@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Itens do menu inferior da tela principal -->
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navInicio"
+        android:icon="@drawable/ic_inicio"
+        android:title="@string/aba_inicio" />
+    <item
+        android:id="@+id/navResumo"
+        android:icon="@drawable/ic_resumo"
+        android:title="@string/aba_resumo" />
+    <item
+        android:id="@+id/navCategorias"
+        android:icon="@drawable/ic_categorias"
+        android:title="@string/aba_categorias" />
+</menu>

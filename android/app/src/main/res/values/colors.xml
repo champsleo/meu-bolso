@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="verde">#2E7D32</color>
+    <color name="verde_escuro">#1B5E20</color>
+    <color name="verde_claro">#C8E6C9</color>
+    <color name="fundo">#F4F6F4</color>
+    <color name="branco">#FFFFFF</color>
+    <color name="preto">#000000</color>
+    <color name="texto_principal">#1F2A24</color>
+    <color name="texto_secundario">#66736B</color>
+    <color name="receita">#2E7D32</color>
+    <color name="despesa">#C62828</color>
+    <color name="alerta">#EF6C00</color>
+    <color name="branco_translucido">#CCFFFFFF</color>
+</resources>

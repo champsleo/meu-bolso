@@ -1,0 +1,90 @@
+<resources>
+    <string name="app_name">Meu Bolso</string>
+
+    <!-- Login e cadastro -->
+    <string name="login_subtitulo">Seu dinheiro organizado, mês a mês</string>
+    <string name="email">E-mail</string>
+    <string name="senha">Senha</string>
+    <string name="nome">Nome</string>
+    <string name="confirmar_senha">Confirmar senha</string>
+    <string name="entrar">Entrar</string>
+    <string name="criar_conta">Criar conta</string>
+    <string name="ainda_nao_tem_conta">Ainda não tem conta? Cadastre-se</string>
+    <string name="usar_conta_demo">Usar conta de demonstração</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="cadastro_subtitulo">Crie sua conta para começar a organizar suas finanças.</string>
+    <string name="sessao_expirada">Sua sessão expirou. Faça login novamente.</string>
+    <string name="erro_preencha_email_senha">Preencha o e-mail e a senha</string>
+    <string name="erro_informe_nome">Informe seu nome</string>
+    <string name="erro_email_invalido">Informe um e-mail válido</string>
+    <string name="erro_senha_curta">A senha deve ter pelo menos 6 caracteres</string>
+    <string name="erro_senhas_diferentes">As senhas não conferem</string>
+
+    <!-- Tela principal -->
+    <string name="ola_usuario">Olá, %1$s!</string>
+    <string name="sair">Sair</string>
+    <string name="confirmar_saida">Deseja realmente sair da sua conta?</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="aba_inicio">Início</string>
+    <string name="aba_resumo">Resumo</string>
+    <string name="aba_categorias">Categorias</string>
+    <string name="mes_anterior">Mês anterior</string>
+    <string name="proximo_mes">Próximo mês</string>
+    <string name="tentar_novamente">Tentar de novo</string>
+
+    <!-- Início -->
+    <string name="saldo_do_mes">Saldo do mês</string>
+    <string name="receitas">Receitas</string>
+    <string name="despesas">Despesas</string>
+    <string name="todos">Todos</string>
+    <string name="valor_zero">R$ 0,00</string>
+    <string name="nenhum_lancamento">Nenhum lançamento neste mês.\nToque no + para adicionar.</string>
+    <string name="novo_lancamento">Novo lançamento</string>
+    <string name="detalhes_lancamento">%1$s • %2$s</string>
+
+    <!-- Resumo -->
+    <string name="despesas_por_categoria">Despesas por categoria</string>
+    <string name="total_gasto">Total gasto</string>
+    <string name="sem_despesas">Nenhuma despesa registrada neste mês.</string>
+    <string name="limites_e_detalhes">Detalhamento e limites</string>
+    <string name="totais_do_mes">Totais do mês</string>
+    <string name="saldo">Saldo</string>
+    <string name="quantidade_lancamentos">Lançamentos</string>
+    <string name="limite_usado">%1$s de %2$s (%3$s do limite)</string>
+    <string name="limite_excedido">Limite excedido! %1$s de %2$s (%3$s)</string>
+
+    <!-- Categorias -->
+    <string name="nova_categoria">Nova categoria</string>
+    <string name="editar_categoria">Editar categoria</string>
+    <string name="excluir_categoria">Excluir categoria</string>
+    <string name="confirmar_exclusao_categoria">Excluir a categoria \"%1$s\"?</string>
+    <string name="nome_categoria">Nome da categoria</string>
+    <string name="cor">Cor</string>
+    <string name="limite_mensal">Limite mensal (opcional)</string>
+    <string name="limite_mensal_ajuda">Você será avisado quando os gastos passarem deste valor.</string>
+    <string name="receita">Receita</string>
+    <string name="despesa">Despesa</string>
+    <string name="tipo_com_limite">%1$s • limite de %2$s por mês</string>
+    <string name="categoria_criada">Categoria criada</string>
+    <string name="categoria_atualizada">Categoria atualizada</string>
+    <string name="categoria_excluida">Categoria excluída</string>
+    <string name="erro_informe_nome_categoria">Informe o nome</string>
+
+    <!-- Formulário de lançamento -->
+    <string name="editar_lancamento">Editar lançamento</string>
+    <string name="descricao">Descrição</string>
+    <string name="valor">Valor</string>
+    <string name="data">Data</string>
+    <string name="categoria">Categoria</string>
+    <string name="salvar">Salvar</string>
+    <string name="excluir">Excluir</string>
+    <string name="voltar">Voltar</string>
+    <string name="prefixo_moeda">R$</string>
+    <string name="excluir_lancamento">Excluir lançamento</string>
+    <string name="confirmar_exclusao_lancamento">Este lançamento será excluído permanentemente.</string>
+    <string name="lancamento_salvo">Lançamento salvo</string>
+    <string name="lancamento_excluido">Lançamento excluído</string>
+    <string name="erro_informe_descricao">Informe a descrição</string>
+    <string name="erro_valor_invalido">Informe um valor maior que zero</string>
+    <string name="erro_selecione_categoria">Selecione uma categoria</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Permite HTTP (sem HTTPS) para o servidor de desenvolvimento local.
+    Em um app publicado de verdade, a API deveria usar HTTPS.
+-->
+<network-security-config>
+    <base-config cleartextTrafficPermitted="true" />
+</network-security-config>

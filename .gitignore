@@ -1,0 +1,21 @@
+# ----- Back-end (Maven / IntelliJ) -----
+backend/target/
+backend/data/
+*.iml
+.idea/
+
+# ----- Android (Gradle / Android Studio) -----
+android/.gradle/
+android/build/
+android/app/build/
+android/local.properties
+android/.idea/
+android/captures/
+android/.externalNativeBuild/
+android/.cxx/
+*.apk
+*.aab
+
+# ----- Sistema -----
+.DS_Store
+Thumbs.db
